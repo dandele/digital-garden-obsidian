@@ -1,0 +1,621 @@
+---
+{"dg-publish":true,"permalink":"/readwise/books/essentialism/"}
+---
+
+# Essentialism
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-2.dae1dc4d332b.png)
+
+## Metadata
+- Date: [[Calendar/<%tp.date.now("DD-MM-YYYY")%>\|Calendar/<%tp.date.now("DD-MM-YYYY")%>]]
+- Author: [[Mckeown, Greg\|Mckeown, Greg]]
+- Full Title: Essentialism
+- Category: #books
+
+## Highlights
+- THE WISDOM OF LIFE CONSISTS IN THE ELIMINATION OF NON-ESSENTIALS.
+- “Is this the very most important thing I should be doing with my time and resources right now?”
+    - Note: La domanda fondamentale, da porsi quando ci si chiede se qualcosa è essenziale oppure no
+- the basic value proposition of Essentialism: only once you give yourself permission to stop trying to do it all, to stop saying yes to everyone, can you make your highest contribution towards the things that really matter.
+    - Note: Definizione di ESSENZIALISMO: solo quando riesci a dedicarti esclusivamente a cio che è piu importante allora riesci anche a contribuire in maniera piu massiccia alle cose che davvero contano
+- How often do you say yes simply to please? Or to avoid trouble? Or because “yes” had just become your default response?
+- Less but better. A more fitting definition of Essentialism would be hard to come by. The way of the Essentialist is the relentless pursuit of less but better. It doesn’t mean occasionally giving a nod to the principle. It means pursuing it in a disciplined way. The way of the Essentialist
+- is about pausing constantly to ask, “Am I investing in the right activities?”
+- Essentialism is not about how to get more things done; it’s about how to get the right things done.
+- 
+    - Note: La differenza tra gli sforzi di chi non è essezialista ( e pur muovendosi in centinaia di direzioni avanza di ben poco) e chi è essenzialista (ed avanzando in una sola direzione, con lo stesso sforzo di chi non è essenzialista, avanza di piu)
+- The way of the Essentialist rejects the idea that we can fit it all in. Instead it requires us to grapple with real trade-offs and make tough decisions.
+- The way of the Essentialist means living by design, not by default.
+- In other words, Essentialism is a disciplined, systematic approach for determining where our highest point of contribution lies, then making execution of those things almost effortless.
+- I had said “yes” simply to please, and in doing so I had hurt my family, my integrity, and even the client relationship.
+    - Note: Molto spesso pensiamo di dire "si" per rispetto, approvazio o dovere. E pensiamo che tali valori vengano individuati e premiati.
+      Molto spesso però accade l'opposto: la "colpa" si avverte ed è evidente anche agli occhi degli altri, ed i danni sono tanti.
+- If you don’t prioritize your life, someone else will.
+- have coached “successful” people in the quiet pain of trying desperately to do everything, perfectly, now.
+- “What would happen if we could figure out the one thing you could do that would make the highest contribution?” I asked him. He responded sincerely: “That is the question.”
+- the pursuit of success can be a catalyst for failure. Put another way, success can distract us from focusing on the essential things that produce success in the first place.
+- Psychologists call this “decision fatigue”: the more choices we are forced to make, the more the quality of our decisions deteriorates.5
+- the larger issue is how our connectedness has increased the strength of social pressure.
+- technology has lowered the barrier for others to share
+- their opinion about what we should be focusing on. It is not just information overload; it is opinion overload.
+- when we try to do it all and have it all, we find ourselves making trade-offs at the margins that we would never take on as our intentional strategy.
+- When we don’t purposefully and deliberately choose where to focus our energies and time, other people—our bosses, our colleagues, our clients, and even our families—will choose for us, and before long we’ll have lost sight of everything that is meaningful and important.
+- purposefully, deliberately, and strategically eliminating the nonessentials, and not just getting rid of the obvious time wasters, but cutting out some really good opportunities as well.7
+- you will learn a way to reduce, simplify, and focus on what is absolutely essential by eliminating everything else.
+- Here’s how an Essentialist would approach that closet.
+- EXPLORE AND EVALUATE Instead of asking, “Is there a chance I will wear this someday in the future?” you ask more disciplined, tough questions: “Do I love this?” and “Do I look great in it?” and “Do I wear this often?” If the answer is no, then you know it is a candidate for elimination.
+- your personal or professional life,
+- equivalent of asking yourself which clothes you love is asking yourself, “Will this activity or effort make the highest possible contribution toward my goal?”
+- ELIMINATE
+- But are you really ready to stuff the “probably should get rid of” pile in a bag and send it off?
+- studies have found that we tend to value things we already own more highly than they are worth and thus that we find them more difficult to get rid
+- ask the killer question: “If I didn’t already own this, how much would
+- I spend to buy it?”
+- it’s not enough to simply determine which activities and efforts don’t make the highest possible contribution; you still have to actively eliminate those that do not.
+    - Note: Non basta sapere quali sono le cose NON ESSENZIALI bisogna anche eliminarle
+- EXECUTE
+- you need a regular routine
+- once you’ve figured out which activities and efforts to keep—the ones that make your highest level of contribution—you need a system to make executing your intentions as effortless as possible.
+- Essentialism is about creating a system for handling the closet of our
+- lives. This is not a process you undertake once a year, once a month, or even once a week, like
+- organizing your closet. It is a discipline you apply each and every time you are faced with a decision about whether to say yes or whether to politely decline.
+- A description of each part of the book is below.
+- ESSENCE: WHAT IS THE CORE MIND-SET OF AN ESSENTIALIST? This part of the book outlines the three realities without which Essentialist thinking would be neither relevant nor possible.
+- Individual choice: We can choose how to
+- spend our energy and time. Without choice, there is no point in talking about trade-offs. 2. The prevalence of noise: Almost everything is noise, and a very few things are exceptionally valuable. This is the justification for taking time to figure out what is most important. Because some things are so much more important, the effort in finding those things is worth it.
+- The reality of trade-offs: We can’t have it all or do it all. If we could, there would be no reason to evaluate or eliminate options. Once we accept the reality of trade-offs we stop asking, “How can I make it all work?” and start asking the more honest question “Which problem do I want to solve?”
+- STEP 1. EXPLORE: DISCERNING THE TRIVIAL MANY FROM THE VITAL FEW One paradox of Essentialism is that Essentialists actually explore more options than their Nonessentialist counterparts.
+- Essentialists systematically explore and evaluate a broad set of options before committing to any. Because they will commit and “go big” on one or two ideas or activities, they deliberately explore more options at first
+- to ensure that they pick the right one later.
+- We are looking for our highest level of contribution: the right thing the right way at the right time.
+- STEP 2. ELIMINATE: CUTTING OUT THE TRIVIAL MANY Many of us say yes to things because we are eager to please and make a difference. Yet the key to making our highest contribution may well be saying no.
+- eliminating the nonessentials isn’t just about mental discipline. It’s about the emotional discipline necessary to say no to social pressure.
+- The real question is not how can we do it all, it is who will get to choose what we do and don’t do. Remember, when we forfeit our right to choose, someone else will choose for us.
+- STEP 3. EXECUTE:
+- REMOVING OBSTACLES AND MAKING EXECUTION EFFORTLESS
+- we tend to think of the process of execution as something hard and full of friction, something we need to force to “make happen.”
+- the Essentialist approach is different.
+- Essentialists invest the time they have saved into creating a system for removing obstacles and making execution as easy as possible.
+- What if all students had time to think about their highest contribution to their future so that when they left high school they were not just starting on the race to nowhere?10
+- What if the whole world shifted from the undisciplined pursuit of more to the disciplined pursuit of less ... only better?
+- ESSENCE What Is the Core Logic of an Essentialist?
+- Essentialism is not a way to do one more thing; it is a different way of doing everything. It is a way of thinking.
+- There are three deeply entrenched assumptions we must conquer to live the
+- way of the Essentialist: “I have to,” “It’s all important,” and “I can do both.”
+    - Note: Queste sono le tre idee che più compromettono la possibilità di essere Essenzialista
+- To embrace the essence of Essentialism requires we replace these false assumptions with three core truths: “I choose to,” “Only a few things really matter,” and “I can do anything but not everything.”
+    - Note: Queste sono invece le idee che devono diventare pattern di pensiero per essere Essenzialisti
+- CHAPTER 2 CHOOSE The Invincible Power of Choice
+- “If you could do only one thing with your life right now, what would you do?”
+- Our options may be things, but a choice—a choice is an action.
+- while we may not always have control over our options, we always have control over how we choose among them.
+- The ability to choose cannot be taken away or even given away—it can only be forgotten.
+- Martin Seligman and Steve Maier,
+- stumbled onto what they later called “learned helplessness” while conducting experiments on German shepherds.
+- humans learn helplessness in much the same way. One example I heard is that of a child who struggles early on with mathematics. He tries and tries but never gets any better, so eventually he gives up. He believes nothing he does will matter.
+- choice is at the very core of what it means to be an Essentialist. To become an
+- Essentialist requires a heightened awareness of our ability to choose. We need to recognize it as an invincible power within us,
+- The Essentialist doesn’t just recognize the power of choice, he celebrates it. The Essentialist knows that when we surrender our right to choose, we give others not just the power but also the explicit permission to choose for us.
+- DISCERN The Unimportance of Practically Everything
+- Do setbacks often only strengthen our resolve to work longer and harder? Do we sometimes respond to every challenge with “Yes, I can take this on as well”? After all, we have been taught from a young age that hard work is key to producing results, and many of us have been amply rewarded for our productivity and our ability to muscle through every task or challenge the world throws at us.
+- Is there a point at which doing more does not produce more? Is there a point at which doing less (but thinking more) will actually produce better outcomes?
+- that ratio between time and reward. But I knew what really counted was the relationship between time and results.
+- “What is the most valuable result I could achieve in this job?”
+- Distinguishing the “trivial many” from the “vital few” can be applied to every kind of human endeavor large or small and has been done so persuasively by Richard Koch, author of several books on how to apply the Pareto Principle (80/20 Rule) to everyday life.4 Indeed, the examples are everywhere.
+- “Warren decided early in his career it would be impossible for him to make hundreds of right investment decisions, so he decided that he would invest only in the businesses that he was absolutely sure of, and then bet heavily on them. He owes 90% of his wealth to just ten investments.
+- Sometimes what you don’t do is just as important as what you do.”6
+- According to the power law theory, certain efforts actually produce exponentially more results than others.
+- We discover how even the many good opportunities we pursue are often far less valuable than the few truly great ones. Once we understand this, we start scanning our environment for those vital few and eagerly eliminate the trivial many.
+- This is why an Essentialist takes the time to explore all his options.
+- The extra investment is justified because some things are so much more important that they repay the effort invested in finding those things tenfold.
+- Many capable people are kept from getting to the next level of contribution because they can’t let go of the belief that everything is important.
+- Essentialist has learned to tell the difference between what is truly important and everything
+- CHAPTER 4 TRADE-OFF Which Problem Do I Want?
+- Imagine you could go back to 1972 and invest a dollar in each company in the S&P 500. Which company would provide the largest return on your investment by 2002?
+- The correct answer is Southwest Airlines.
+- Rather than try to fly to every destination, they had deliberately
+- chosen to offer only point-to-point flights.
+- Kelleher was totally clear about what the company was—a low-cost airline—and what they were not. And his trade-offs reflected as much.
+- “You have
+- to look at every opportunity and say, ‘Well, no ... I’m sorry. We’re not going to do a thousand different things that really won’t contribute much to the end result we are trying to achieve.’ ”
+- Have you ever spent time with someone who is always trying to fit just one more thing in?
+- they have ten minutes to get to a meeting that takes ten minutes to walk to, but they still sit down to answer a couple of e-mails before they go.
+- Their logic, which ignores the reality of trade-offs, is I can do both.
+- this logic is false.
+- We can try to avoid the reality of trade-offs, but we can’t escape them.
+- It is easy to see why it’s so tempting to deny the reality of trade-offs.
+- a trade-off involves two things we want. Do you want more pay or more vacation time?
+- A Nonessentialist approaches every trade-off by asking, “How can I do both?” Essentialists ask the tougher but ultimately more liberating question, “Which problem do I want?” An Essentialist makes trade-offs deliberately.
+- She acts for herself rather than waiting to be acted upon.
+- As painful as they can sometimes be, trade-offs represent a significant opportunity. By forcing us to weigh both options and strategically select the best one for us, we significantly increase our chance of achieving the outcome we want.
+- Essentialists see trade-offs as an inherent part of life, not as an inherently negative part of life. Instead of asking, “What do I have to give up?” they ask, “What do I want to go big on?” The cumulative impact of this small change in thinking can be profound.
+- “Imagine a four-burner stove,” she instructs the members of the party. “One burner represents your family, one is your friends, the third is your health, and the
+- fourth is your work. In order to be successful you have to cut off one of your burners. And in order to be really successful you have to cut off two.”
+- EXPLORE Discern the Vital Few from the Trivial Many
+- The way of the Essentialist, on the other hand, is to explore and evaluate a broad set of options before committing to
+- any.
+- Because Essentialists will commit and “go big” on only the vital few ideas or activities, they explore more
+- If you believe being overly busy and overextended is evidence of productivity, then you probably believe that creating space to explore, think, and reflect should be kept to a minimum. Yet these very activities are the antidote to the nonessential busyness that infects so many of us. Rather than trivial diversions, they are critical to distinguishing what is actually a trivial diversion from what is truly essential.
+- CHAPTER 5 ESCAPE The Perks of Being Unavailable
+- people can’t figure out what is essential if they’re constantly on call.
+- They need space to figure out what really matters.
+- One leader I worked with admitted to staying at a company five years too long. Why? Because he was so busy in the company he didn’t take time to decide whether he should be at the company.
+- Before you can evaluate what is and isn’t essential, you first need to explore your options.
+- when did you last take time out of your busy day simply to sit and think? I don’t mean the five minutes during your morning commute you spent composing the day’s to-do list, or the meeting you spent zoned out reflecting on how to approach another project you were working on. I’m talking about deliberately setting aside distraction-free time in a distraction-free space to do absolutely nothing other than think.
+- the faster and busier things get, the more we need to build thinking time into our schedule.
+- No matter how busy you think you are, you can carve time and space to think out of your workday.
+- Jeff Weiner, the CEO of LinkedIn, for example, schedules up to two hours of blank space on his calendar every day.
+- He divides them into thirty-minute increments, yet he schedules nothing.
+- At first it felt like an indulgence, a waste of time. But eventually he found it to be his single most valuable productivity tool. He sees it as the primary way he can ensure he is in charge of his own day, instead of being at the mercy of it.
+- In this space he is able to think about the essential questions: what the company will look like in three to five years; what’s the best way to improve an already popular product or address an unmet customer need; how to widen a competitive advantage or close a competitive gap. He also uses the space he creates to recharge himself emotionally.
+- If setting aside a full week seems overwhelming or impossible, there are ways of putting a little “Think Week” into every day. One practice I’ve found useful is simply to read something from classic literature
+- for the first twenty minutes of the day. Not only does this squash my previous tendency to check my e-mail as soon as I wake up, it centers my day.
+- My preference is for inspirational
+- literature, though such a choice is a personal one.
+- here are some to consider: Zen, the Reason of Unreason; The Wisdom of Confucius; the Torah; the Holy Bible; Tao, to Know and Not Be Knowing; The Meaning of the Glorious Koran: An Explanatory Translation; As a Man Thinketh; The Essential Gandhi; Walden, or, Life in the Woods; the Book of Mormon; The Meditations of Marcus Aurelius; and the Upanishads.
+- There are a myriad of options. Just make sure to select something that was written before our hyperconnected era
+- Whether you can invest two hours a day, two weeks a year, or even just five minutes every morning, it is important to make space to escape in your busy life.
+- CHAPTER 6 LOOK See What Really Matters
+- “I realized that journalism was not just about regurgitating the facts but about figuring out the point. It wasn’t enough to know the who, what, when, and where; you had to understand what it meant. And why it mattered.”
+- Have you ever felt lost and unsure about what to focus on? Have you ever felt overwhelmed by all of the information bombarding you and not sure what to make of it? Have you ever felt dizzy from the different requests coming at you and unable to figure out which are important and which are not? Have you ever missed the point to something in your work or at home and not realized your mistake until it was too late? If so, this next Essentialist skill will be immensely valuable.
+- Being a journalist of your own life will force you to stop hyper-focusing on all the minor details and see the bigger picture. You can apply the skills of a journalist no matter what field you are in—you can even apply them to your personal life.
+- By training yourself to look for “the lead,” you will suddenly find yourself able to see what you have missed.
+- You’ll be able to do more than simply see the dots of each day: you’ll also connect them to see the trends.
+- We know instinctively that we cannot explore every single piece of information we encounter in our lives. Discerning what is essential to explore requires us to be disciplined in how we scan and filter all the competing and conflicting facts, options, and opinions constantly vying for our attention.
+- The best journalists, as Friedman shared later with me, listen for what others do not hear. At the lunch, he had been listening for what was being said only at the periphery. He was listening more for what was not being said. Essentialists are powerful observers and listeners. Knowing that the reality of trade-offs means they can’t possibly pay attention to everything, they listen deliberately for what is not being explicitly stated.
+- Nonessentialists listen too. But they listen while preparing to say something.
+- They get distracted by extraneous noise.
+- They hyperfocus on inconsequential details. They hear the loudest voice but they get the wrong message.
+- Here are a few ways to tap into your inner journalist.
+- Keep a Journal
+- one of the most obvious and yet powerful ways to become a journalist of our own lives is simply to keep a journal.
+- Typically, when people start to keep a journal they write pages the first day. Then by the second day the prospect of writing so much is daunting, and they procrastinate or abandon the exercise. So apply the principle of “less but better” to your journal. Restrain yourself from writing more until daily journaling has become a habit.
+- once every ninety days or so you take an hour to read your journal entries from that period.
+- focus on the broader patterns or trends. Capture the headline. Look for the lead in your day, your week, your life. Small, incremental changes are hard to see in the moment but over time can have a huge cumulative effect.
+- Get Out into the Field
+- By getting out there and fully exploring the problem, they were able to better clarify the question and in turn to focus on the essential details that ultimately allowed them to make the highest contribution to the problem.
+- Keep your eyes peeled for abnormal or unusual details
+- “My goal,” she said, “was to understand the ‘spiderweb’ of the story because that is what allowed me to spot any ‘abnormal’ or ‘unusual’ detail or behavior that didn’t quite fit into the natural course of the story.” It’s crucial,
+- seek “a different perspective on a given story, one that would shed the light on the topic in a fresh, different or thought-provoking way.” One trick she uses is role play: she puts herself in the shoes of all the main players in a story in order to better understand their motives, reasoning, and points of view.
+- Clarify the Question
+- Clarifying the question is a way out of that cycle.
+- thought about what goals they were trying to accomplish and what decisions really needed to be made to accomplish them.
+- CHAPTER 7 PLAY Embrace the Wisdom of Your Inner Child
+- as we get older something happens. We are introduced to the idea that play is trivial. Play is a waste of time. Play is unnecessary. Play is childish.
+- play is essential in many ways.
+- The value of play in our lives can’t be overstated.
+- Bob Fagan, a researcher who has spent fifteen years studying the behavior of grizzly bears, discovered bears who played the most tended to survive the longest. When asked why, he said, “In a world continuously presenting unique challenges and ambiguity, play prepares these bears for a changing planet.”4
+- Play expands our minds in ways that allow us to explore: to germinate new ideas or see old ideas in a new light. It makes us more inquisitive, more attuned to novelty, more engaged.
+- Play is fundamental to living the way of the Essentialist because it fuels exploration in at least three specific ways.
+- First, play broadens the range of options available to us. It helps us to see possibilities we otherwise wouldn’t have seen and make connections we would otherwise not have made.
+- Second, play is an antidote to stress, and this is key because stress, in addition to being an enemy of productivity, can actually shut down the creative, inquisitive, exploratory parts of our brain.
+- I have seen play reverse these effects in my own children. When they are stressed and things feel out of control, I have them draw.
+- Third,
+- play has a positive effect on the executive function of the brain.
+- Play stimulates the parts of the brain involved in both careful, logical reasoning and carefree, unbound exploration.
+- Play doesn’t just help us to explore what is essential. It is essential in and of itself.
+- He suggests that readers mine their past for play memories. What did you do as a child that excited you? How can you re-create that today?
+- CHAPTER 8 SLEEP Protect the Asset
+- Geoff was a textbook overachiever who had a deep desire to make a difference
+- Geoff was fiercely ambitious, driven, and committed to making a contribution to the world: he was on the board of Kiva, he had been named Ernst and Young’s Entrepreneur of the Year and a Young Global Leader by the World Economic Forum, he was the co-founder of a successful impact investment fund, and he was the CEO of a global microcredit organization that was reaching more than 12 million poor families around the world.
+- On average, he slept about four to six hours a night.
+- He kept telling himself he would slow down after the next deal, then the next, then the one after that.
+- But of course he didn’t.
+- He didn’t want to face the trade-offs that scaling back entailed. But they soon caught up with him: he would be forced to cancel meetings at the last minute because he was too weak to attend or he would give a speech but bomb it because his brain was cloudy.
+- He started to wonder if he was doing the company more harm than good—and he definitely was.
+- he was given two options by his doctor: he could take medications for the rest of his life to deal with his symptoms, or he could disengage from everything for a year or two to treat and recover from his illness.
+- Geoff didn’t accept this trade-off at first.
+- He boastfully told the doctor he would take a couple of months off and be back to full form: “Watch! Just watch!” He took a two-month sabbatical, and to his surprise he totally crashed.
+- He slept fourteen hours per night!
+- Then he rested all day long. He could not even get out of bed some days. He was totally nonfunctional for six weeks.
+- True to his word, he got rid of everything that was creating stress in his life. He resigned from his boards and decided to leave his company too.
+- One evening at an open-mic night Geoff was urged by those who knew his story to share what he had learned with the group of two hundred accomplished peers.
+- Through great emotion, he told them that he had paid a high price to learn a simple yet essential lesson: “Protect the asset.”
+- The best asset we have for making a contribution to the world is ourselves.
+- One of the most common ways people—especially ambitious, successful people—damage this asset is through a lack of sleep.
+- If we let our type A instincts take over, we will, like Geoff, be swallowed up whole. We will burn out too early. We need to be as strategic with ourselves as we are with our careers and our businesses.
+- for a type A personality, it is not hard to push oneself hard. Pushing oneself to the limit is easy! The real challenge for the person who thrives on challenges is not to work hard.
+- “If you think you are so tough you can do anything I have a challenge for you. If you really want to do something hard: say no to an opportunity so you can take a nap.”
+- my wife, who did not care for this practice, gave me an article that completely shifted the way I saw sleep.
+- It challenged the notion that sleep was an enemy of productivity, convincingly arguing that in fact sleep was a driver of peak performance. I remember the article cited top business leaders who boasted about getting a full eight hours.
+- Essentialists instead see sleep as necessary for operating at high levels of contribution more of the time. This is why they systematically and deliberately build sleep into their schedules so they can do more, achieve more, and explore more.
+- By “protecting their asset” they are able to go about their daily lives with a reserve of energy, creativity, and problem-solving ability to call upon when needed—unlike Nonessentialists, who can never know when and where they’ll be hijacked by their own fatigue.
+- Essentialists choose to do one fewer thing right now in order to do more tomorrow. Yes, it is a trade-off. But cumulatively, this small trade-off can yield big rewards.
+- So if “protecting the asset” is so important, why do we give up our precious sleep so easily?
+- there are ample reasons to challenge this assumption, like the growing body of research demonstrating that a good night’s sleep actually makes us more productive, not less.
+- the second most important factor differentiating the best violinists from the good violinists was actually sleep. The best violinists slept an average of 8.6 hours in every twenty-four-hour period: about an hour longer than the average American.
+- Over the period of a week they also spent an average of 2.8 hours of napping in the afternoon: about two hours longer than the average. Sleep, the authors of the study concluded, allowed these top performers to regenerate so that they could practice with greater concentration.
+- He likens sleep deficit to drinking too much alcohol, explaining that pulling an all-nighter
+- or having a week of sleeping just four or five hours a night actually “induces an impairment equivalent to a blood alcohol
+- level of 0.1%. Think about this: we would never say, ‘This person is a great worker! He’s drunk all the time!’ yet we continue to celebrate people who sacrifice sleep for work.”2
+- sleep is really more about the brain.
+- full night’s sleep may actually increase brain power and enhance our problem-solving ability.
+- while we sleep our brains are hard at work encoding and restructuring information. Therefore, when we wake up, our brains may have made new neural connections, thereby opening up a broader range of solutions to problems, literally overnight.
+- science shows that even a nap can increase creativity.
+- even a single REM—or rapid eye movement—cycle enhanced the integration of unassociated information. Even a brief period of deep sleep, in other words, helps us make the kinds of new connections that allow us to better explore our world.
+- Our highest priority is to protect our ability to prioritize.
+- The problem with being sleep-deprived is that it compromises our ability to tell the difference, and thus our precious ability to prioritize.
+- Sleep will enhance your ability to explore, make connections, and do less but better throughout your waking hours.
+- CHAPTER 9 SELECT The Power of Extreme Criteria
+- Derek Sivers describes a simple technique for becoming more selective in the choices we make.
+- The key is to put the decision to an extreme test: if we feel total and utter conviction to do something, then we say yes, Derek-style. Anything less gets a thumbs down.
+- When he wasn’t blown away by any of the candidates he interviewed for a job, he said no to all of them. Eventually he found exactly the right person. When he realized he had signed up for several conferences around the world that he wasn’t really stoked about, he decided to stay home and skip all of them, and in turn earned twelve days he used to more productive ends.
+- we ask, “Do I absolutely love this?” then we will be able to eliminate the clutter and have space for something better. We can do the same with other choices—whether big or small, significant or trivial—in every area of our lives.
+- You can think of this as the 90 Percent Rule, and it’s one you can apply to just about every decision or dilemma. As you evaluate an option, think about the single most important criterion for that decision, and then simply give the option a score between 0 and 100. If you rate it any lower than 90 percent, then automatically change the rating to 0 and simply reject it.
+- Mastering this Essentialist skill, perhaps more than any other in this section, requires us to be vigilant about acknowledging the reality of trade-offs.
+- applying highly selective criteria is a trade-off; sometimes you will have to turn down a seemingly very good option and have faith that the perfect option will soon come along.
+- Sometimes it will, and sometimes it won’t, but the point is that the very act of applying selective criteria forces you to choose which perfect option to wait for, rather than letting other people, or the universe, choose for you.
+- The benefits of this ultraselective approach to decision making in all areas of our lives should be clear: when our selection criteria are too broad, we will find ourselves committing to too many options.
+- What’s more, assigning simple numerical values to our options forces us to make decisions consciously, logically, and rationally, rather than impulsively or emotionally.
+- If it isn’t a clear yes, then it’s a clear no.
+- Being selective when deciding what opportunities to go after is one thing, but it can get even harder when opportunities come to us. We get a job offer we didn’t expect. A side project comes along that isn’t really what we do, but it is easy cash.
+- The fear of missing out goes into full effect.
+- But if we just say yes because it is an easy reward, we run the risk of having to later say no to a more meaningful one.
+- But to achieve this they would have to say no to everything else. Even in bad economic times. Even when paid work was offered to them. It was the price for becoming distinct. In other words, they would have to be more selective in the work they took on, so they could channel all their energies toward excelling in the area that had become their specialty.
+- Here’s a simple, systematic process you can use to apply selective criteria to opportunities that come your way. First, write down the opportunity. Second, write down a list of three “minimum criteria” the options would need to “pass” in order to be considered.
+- Third, write down a list of three ideal or “extreme criteria” the options would need to “pass” in order to be considered. By definition, if the opportunity doesn’t pass the first set of criteria, the answer is obviously no. But if it also doesn’t pass two of your three extreme criteria, the answer is still no.
+- opportunity What opportunity is being offered to you? minimum What are your minimum criteria for this option to be considered? extreme What are the ideal criteria for this option to be approved?
+- Applying tougher criteria to life’s big decisions allows us to better tap into our brain’s sophisticated search engine.
+- If we search for “a good career opportunity,” our brain will serve up scores of pages to explore and work through.
+- Instead, why not conduct an advanced search and ask three questions: “What am I deeply passionate about?” and “What taps my talent?” and “What meets a significant need in the world?” Naturally there won’t be as many pages to view, but that is the point of the exercise.
+- We are looking for the one where we can make our absolutely highest point of contribution.
+- The price of his dream job was saying no to the many good, even very good, parallel opportunities he encountered and waiting for the one he could enthusiastically say yes to. And the wait was worth it.
+- ELIMINATE How Can We Cut Out the Trivial Many?
+- it’s not enough to simply determine which activities and efforts don’t make the best possible contribution; you still have to actively eliminate those that do not.
+- “If I didn’t already own this, how much would I spend to buy it?”
+- the killer question when deciding what activities to eliminate is: “If I didn’t have this opportunity, what would I be willing to do to acquire it?”
+- CHAPTER 10 CLARIFY One Decision That Makes a Thousand
+- This section of the book is all about how to eliminate nonessentials in order to ensure that we can pour our energies into the activities that are most meaningful to us.
+- The first type of nonessential you’re going to learn how to eliminate is simply any activity that is misaligned with what you are intending to achieve.
+- When I ask people, “What do you really want out of your career over the next five years?” I am still taken aback by how few people can answer the question.
+- This would matter less if it were not for the fact that clarity of purpose so consistently predicts how people do their jobs.
+- When there is a serious lack of clarity about what the team stands for and what their goals and roles are, people experience confusion, stress, and frustration.
+- those areas that are truly vital. In my work, I have noticed two common patterns that typically emerge when teams lack clarity of purpose.
+- PATTERN 1: PLAYING POLITICS In the first pattern, the team becomes overly focused on winning the attention of the manager. The problem is, when people don’t know what the end game is, they are unclear about how to win, and as a result they make up their own game and their own rules as they vie for the manager’s favor.
+- We do a similar thing in our personal lives as well. When we are unclear about our real purpose in life—in other words, when we don’t have a clear sense of our goals, our aspirations, and our values—we make up our own social games.
+- As a result, we neglect activities that are truly essential, like spending time with our loved ones, or nurturing our spirit, or taking care of our health.
+- PATTERN 2: IT’S ALL GOOD (WHICH IS BAD) In the second pattern, teams without purpose become leaderless. With no clear direction, people pursue the things that advance their own short-term interests, with little awareness of how their activities contribute to (or in some cases, derail) the long-term mission of the team as a whole.
+- when individuals are involved in too many disparate activities—even good activities—they can fail to achieve their essential mission. One reason for this is that the activities don’t work in concert, so they don’t add up into a meaningful whole.
+- five different jobs in five different industries do not add up to a forward-moving career.
+- Without clarity and purpose, pursuing something because it is good is not good enough to make a high level of contribution.
+- “The crime which bankrupts men and states is that of job-work;—declining from your main design to serve a turn here or there.”
+- So how do we achieve clarity of purpose in our teams and even our personal endeavors?
+- Essential Intent To understand what an essential intent is, we may be best served by first establishing what it is not.2
+- In the top left quadrant, we have vision and mission statements like “We want to change the world”: statements that sound inspirational but are so general they are almost entirely ignored.
+- In the bottom left quadrant, we have a set of vague, general values—like “innovation,” “leadership,” and “teamwork”—but these are typically too bland and generic to inspire any passion.
+- In the bottom right quadrant, we have shorter-term quarterly objectives we pay attention to, like “Increase profits 5 percent over last year’s results”; these shorter-term tactics may be concrete enough to get our attention, but they often lack inspiration.
+- an essential intent is one decision that settles one thousand later decisions. It’s like deciding you’re going to become a doctor instead of a lawyer. One strategic choice eliminates a universe of other options and maps a course for the next five, ten, or even twenty years of your life.
+- Martha Lane Fox was asked by the British prime minister to be the United Kingdom’s first “Digital Champion,” she had the opportunity to create a description for this newly created role.
+- Martha and her team came up with this essential intent: “To get everyone in the U.K. online by the end of 2012.”
+- An essential intent doesn’t have to be elegantly crafted; it’s the substance, not the style that counts. Instead, ask the more essential question that will inform every future decision you will ever make: “If we could be truly excellent at only one thing, what would it be?”
+- ASK, “HOW WILL WE KNOW WHEN WE’RE DONE?” That said, when it comes to achieving clarity of purpose, inspiration does matter.
+- we need to remember that concrete objectives have the power to elevate and inspire as well.
+- some of the most grandiose were actually the least inspiring.
+- one had the mission to “eliminate hunger in the world,” but given that there were just five people in the organization, the mission felt like little more than empty words.
+- Then out of the cluttered landscape of such loose idealism came a statement we all immediately understood and were inspired by. It was from a slightly unexpected place: the actor/social entrepreneur Brad Pitt, who, appalled by the lack of progress in rebuilding New Orleans after Hurricane Katrina, had started an organization called “Make It Right” with the essential intent “to build 150 affordable, green, storm-resistant homes for families living in the Lower 9th Ward.” That statement took the air out of the room. The concreteness of the objective made it real. The realness made it inspiring. It answered the question: “How will we know when we have succeeded?”
+- true essential intent is one that guides your greater sense of purpose, and helps you chart your life’s path. For example, Nelson Mandela spent twenty-seven years in jail becoming an Essentialist.
+- He chose to use those twenty-seven years to focus on what was really essential and eliminate everything else—including his own resentment. He made it his essential intent to eliminate apartheid in South Africa and in doing so established a legacy that lives on today.
+- Creating an essential intent is hard. It takes courage, insight, and foresight to see which activities and efforts will add up to your single highest point of contribution. It takes asking tough questions, making real trade-offs, and exercising serious discipline to cut out the competing priorities that distract us from our true intention.
+- CHAPTER 11 DARE The Power of a Graceful “No”
+- Have you ever felt a tension between what you felt was right and what someone was pressuring you to do? Have you ever felt the conflict between your internal conviction and an external action? Have you ever said yes when you meant no simply to avoid conflict or friction? Have you ever felt too scared or timid to turn down an invitation or request from a boss, colleague, friend, neighbor, or family member for fear of disappointing them? If you have, you’re not alone.
+- the deeper I have looked at the subject of Essentialism the more clearly I have seen courage as key to the process of elimination.
+- Yet as hard as it can be to say no to someone, failing to do so can cause us to miss out on something far more important.
+- why is it so hard in the moment to dare to choose what is essential over what is nonessential?
+- One simple answer is we are unclear about what is essential. When this happens we become defenseless. On the other hand, when we have strong internal clarity it is almost as if we have a force field protecting us from the nonessentials coming at us from all directions.
+- In virtually every instance, clarity about what is essential fuels us with the strength to say no to the nonessentials.
+- A second reason why it is hard to choose what is essential in the moment is as simple as an innate fear of social awkwardness.
+- we as humans are wired to want to get along with others. After all, thousands of years ago when we all lived in tribes of hunter gatherers, our survival depended on it.
+- the very thought of saying no literally brings us physical discomfort.
+- We feel guilty. We don’t want to let someone down. We are worried about damaging the relationship. But these emotions muddle our clarity. They distract us from the reality of the fact that either we can say no and regret it for a few minutes, or we can say yes and regret it for days, weeks, months, or even years.
+- The only way out of this trap is to learn to say no firmly, resolutely, and yet gracefully. Because once we do, we find, not only that our fears of disappointing or angering others were exaggerated, but that people actually respect us more.
+- am greatly honored and flattered by your kind letter of February 14th—for I have admired you and your work for many years, and I have learned much from it. But, my dear Professor Csikszentmihalyi, I am afraid I have to disappoint you. I could not possibly answer your questions. I am told I am creative—I don’t know what that means.... I just keep on plodding.... I hope you will not think me presumptuous or rude if I say that one of the secrets of productivity (in which I believe whereas I do not believe in creativity) is to have a VERY BIG waste paper basket to take care of ALL invitations such as yours—productivity in my experience consists of NOT doing anything that helps the work of other people but to spend all one’s time on the work the Good Lord has fitted one to do, and to do well.”8
+- Essentialists know that after the rush comes the pang of regret. They know they will soon feel bullied and resentful—both at the other person and at themselves.
+- Eventually they will wake up to the unpleasant reality that something more important must now be sacrificed to accommodate this new commitment.
+- The point is to say no to the nonessentials so we can say yes to the things that really matter.
+- So how do we learn to say no gracefully?
+- SEPARATE THE DECISION FROM THE RELATIONSHIP When people ask us to do something, we can confuse the request with our relationship with them. Sometimes they seem so interconnected, we forget that denying the request is not the same as denying the person.
+- SAYING “NO” GRACEFULLY DOESN’T HAVE TO MEAN USING THE WORD NO
+- Essentialists choose “no” more often than they say no. There may be a time when the most graceful way to say no is to simply say a blunt no. But whether it’s “I am flattered that you thought of me but I’m afraid I don’t have the bandwidth” or “I would very much like to but I’m overcommitted,” there are a variety of ways of refusing someone clearly and politely without actually using the word no.
+- FOCUS ON THE TRADE-OFF The more we think about what we are giving up when we say yes to someone, the easier it is to say no.
+- A graceful “no” grows out of a clear but unstated calculation of the trade-off.
+- REMIND YOURSELF THAT EVERYONE IS SELLING SOMETHING
+- am simply saying everyone is selling something—an idea, a viewpoint, an opinion—in exchange for your time. Simply being aware of what is being sold allows us to be more deliberate in deciding whether we want to buy it.
+- MAKE YOUR PEACE WITH THE FACT THAT SAYING “NO” OFTEN REQUIRES TRADING POPULARITY FOR RESPECT
+- When you say no, there is usually a short-term impact on the relationship.
+- when someone asks for something and doesn’t get it, his or her immediate reaction may be annoyance or disappointment or even anger. This downside is clear. The potential upside, however, is less obvious: when the initial annoyance or disappointment or anger wears off, the respect kicks in.
+- When we push back effectively, it shows people that our time is highly valuable. It distinguishes the professional from the amateur.
+- Essentialists accept they cannot be popular with everyone all of the time. Yes, saying no respectfully, reasonably, and gracefully can come at a short-term social cost. But part of living the way of the Essentialist is realizing respect is far more valuable than popularity in the long run.
+- REMEMBER THAT A CLEAR “NO” CAN BE MORE GRACEFUL THAN A VAGUE OR NONCOMMITTAL “YES”
+- a clear “I am going to pass on this” is far better than not getting back to someone or stringing them along with some noncommittal answer like “I will try to make this work” or “I might be able to” when you know you can’t.
+- Being vague is not the same as being graceful, and delaying the eventual “no” will only make it that much harder—and the recipient that much more resentful.
+- Essentialists don’t say no just occasionally. It is a part of their regular repertoire.
+- Below are eight responses you can put in your “no” repertoire.
+- 1. The awkward pause. Instead of being controlled by the threat of an awkward silence, own it. Use it as a tool. When a request comes to you (obviously this works only in person), just pause for a moment. Count to three before delivering your verdict. Or if you get a bit more bold, simply wait for the other person to fill the void.
+- 2. The soft “no” (or the “no but”). I recently received an e-mail inviting me to coffee. I replied: “I am consumed with writing my book right now :) But I would love to get together once the book is finished.
+- 3. “Let me check my calendar and get back to you.”
+- 4. Use e-mail bouncebacks.
+- this is the most socially acceptable “no” there is.
+- People aren’t saying they don’t want to reply to your e-mail, they’re just saying they can’t get back to you for a period of time.
+- 5. Say, “Yes. What should I deprioritize?” Saying no to a senior leader at work is almost unthinkable, even laughable, for many people. However, when saying yes is going to compromise your ability to make the highest level of contribution to your work, it is also your obligation.
+- “Yes, I’m happy to make this the priority. Which of these other projects should I deprioritize to pay attention to this new project?” Or simply say, “I would want to do a great job, and given my other commitments I wouldn’t be able to do a job I was proud of if I took this on.”
+- 6. Say it with humor.
+- My response was simple: “Nope!” He laughed a little and said, “Ah, you practice what you preach.”
+- 7. Use the words “You are welcome to X. I am willing to Y.”
+- “You are welcome to borrow my car. I am willing to make sure the keys are here for you.” By this you are also saying, “I won’t be able to drive you.” You are saying what you will not do, but you are couching it in terms of what you are willing to do. This is a particularly good way to navigate a request you would like to support somewhat but cannot throw your full weight behind.
+- 8. “I can’t do it, but X might be interested.” It is tempting to think that our help is uniquely invaluable, but often people requesting something don’t really care if we’re the ones who help them—as long as they get the help.
+- “I say no very easily because I know what is important to me. I only wish that I learned how to do that earlier in my life.”11
+- Saying no is its own leadership capability. It is not just a peripheral skill. As with any ability, we start with limited experience. We are novices at “no.” Then we learn a couple of basic techniques. We make mistakes. We learn from them. We develop more skills. We keep practicing. After a while we have a whole repertoire available at our disposal, and in time we have gained mastery of a type of social art form.
+- CHAPTER 12 UNCOMMIT Win Big by Cutting Your Losses
+- Why would intelligent, capable British and French government officials continue to invest in what was clearly a losing proposition for so long? One reason is a very common psychological phenomenon called “sunk-cost bias.” Sunk-cost bias is the tendency to continue to invest time, money, or energy into something we know is a losing proposition simply because we have already incurred, or sunk, a cost that cannot be recouped.
+- The more we invest in something, the harder it is to let go.
+- Have you ever continued to invest time or effort in a nonessential project instead of cutting your losses? Have you ever continued to pour money into an investment that wasn’t panning out instead of walking away? Have you ever kept plodding down a dead end because you could not admit, “I shouldn’t have pursued this direction in the first place”?
+- A Nonessentialist can’t break free of traps like these. An Essentialist has the courage and confidence to admit his or her mistakes and uncommit, no matter the sunk costs.
+- Sunk-cost bias, while all too common, isn’t the only Nonessentialist trap to watch out for. Below are several other common traps and tips for how to extricate yourself politely, gracefully, and with minimal cost.
+- Avoiding Commitment Traps
+- something called “the endowment effect,” our tendency to undervalue things that aren’t ours and to overvalue things because we already own them.
+- The mere fact of ownership, in other words, caused the mug owners to value the objects more highly and made them less willing to part with them.
+- I’m sure you can think of items that seem to be more valuable the moment
+- Whether or not you get any use or enjoyment out of them, subconsciously, the very fact that they are yours makes you value them more highly than you would if they didn’t belong to you.
+- we have this bias when it comes to
+- here is a useful tip: PRETEND YOU DON’T OWN IT YET
+- “If I did not own this item, how much would I pay to obtain it?” We can do the same for opportunities and commitment. Don’t ask, “How will I feel if I miss out on this opportunity?” but rather, “If I did not have this opportunity, how much would I be willing to sacrifice in order to obtain it?”
+- GET OVER THE FEAR OF WASTE
+- Why are adults so much more vulnerable to the sunk-cost bias than young children?
+- The answer, he believes, is a lifetime of exposure to the “Don’t waste” rule, so that by the time we are adults we are trained to avoid appearing wasteful, even to ourselves.8
+- “Abandoning a project that you’ve invested a lot in feels like you’ve wasted everything, and waste is something we’re told to avoid,”
+- “Assume that you have spent $100 on a ticket for a weekend ski trip to Michigan. Several weeks later you buy a $50 ticket for a weekend ski trip to Wisconsin. You think you will enjoy the Wisconsin ski trip more than the Michigan ski trip. As you are putting your newly purchased Wisconsin ticket in your wallet you notice that the Michigan ski trip and the Wisconsin ski trip are for the same weekend.
+- You must choose which to use.” When asked, “Which ski trip will you go on?” more than half said they would opt for the more expensive trip, even though they would enjoy it less. Their (faulty) reasoning was that using the cheaper ticket would be wasting more money than using the expensive ticket. It’s natural not to want to let go of what we wasted on a bad choice, but when we don’t, we doom ourselves to keep wasting even more.
+- INSTEAD, ADMIT FAILURE TO BEGIN SUCCESS
+- Only when we admit we have made a mistake in committing to something can we make a mistake a part of our past. When we remain in denial, on the other hand, we continue to circle pointlessly. There should be no shame in admitting to a mistake; after all, we really are only admitting that we are now wiser than we once were.
+- STOP TRYING TO FORCE A FIT
+- The point is that we often act like Dustin Hoffman’s character by trying too hard to be something we’re not. Whether in our personal or professional lives, it is all too tempting to force something that is simply a mismatch. The solution?
+- GET A NEUTRAL SECOND OPINION When we get so emotionally hung up on trying to force something that is not the right fit, we can often benefit from a sounding board. Someone who is not emotionally involved in the situation and unaffected by the choice we make can give us the permission to stop forcing something that is clearly not working out.
+- BE AWARE OF THE STATUS QUO BIAS The tendency to continue doing something simply because we have always done it is sometimes called the “status quo bias.”
+- It’s all too easy to blindly accept and not bother to question commitments simply because they have already been established.
+- APPLY ZERO-BASED BUDGETING
+- when accountants allocate a budget they use last year’s budget as the baseline for the next year’s projection. But with zero-based budgeting, they use zero as the baseline.
+- every item in the proposed budget must be justified from scratch. While this takes more effort it has many advantages: it efficiently allocates resources on the basis of needs rather than history, it detects exaggerated budget requests, it draws attention to obsolete operations, and it encourages people to be clearer in their purpose and how their expenses align to that project.
+- You can apply zero-based budgeting to your own endeavors.
+- Instead of trying to budget your time on the basis of existing commitments, assume that all bets are off.
+- Then begin from scratch, asking which you would add today. You can do this with everything from the financial obligations you have to projects you are committed to, even relationships you are in. Every use of time, energy, or resources has to justify itself anew. If it no longer fits, eliminate it altogether.
+- STOP MAKING CASUAL COMMITMENTS
+- FROM NOW ON, PAUSE BEFORE YOU SPEAK It might sound obvious, but pausing for just five seconds before offering your services can greatly reduce the possibility of making a commitment you’ll regret.
+- ask yourself, “Is this essential?”
+- Simply apologize and tell the person that when you made the commitment you didn’t fully realize what it would entail.
+- GET OVER THE FEAR OF MISSING OUT We’ve seen ample evidence in this chapter suggesting that the majority of us are naturally very loss-averse. As a result, one of the obstacles to uncommitting ourselves from a present course is the fear of missing out on something great.
+- TO FIGHT THIS FEAR, RUN A REVERSE PILOT
+- running what Daniel Shapero, a director at LinkedIn, calls a “reverse pilot.”10
+- In a reverse pilot you test whether removing an initiative or activity will have any negative consequences.
+- A similar reverse pilot can be carried out in our social lives.
+- Are there commitments you routinely make to customers, colleagues, friends or even family members that you have always assumed made a big difference to them but that in fact they might barely notice? By quietly eliminating or at least scaling back an activity for a few days or weeks you might be able to assess whether it is really making a difference or whether no one really cares.
+- We feel guilty saying no to something or someone we have already committed to, and let’s face it, no one likes going back on their word. Yet learning how to do so—in ways that will garner you respect for your courage, focus, and discipline—is crucial to becoming an Essentialist.
+- CHAPTER 13 EDIT The Invisible Art
+- editing—which involves the strict elimination of the trivial, unimportant, or irrelevant—is an Essentialist craft. So what makes a good editor?
+- good film editor makes it hard not to see what’s important because she eliminates everything but the elements that absolutely need to be there.
+- the next stage in the Essentialist process, eliminating the nonessentials, means taking on the role of an editor in your life and leadership.
+- are a thousand things we could be doing. But there [are] only one or two that are important. And all of these ideas ... and inputs from engineers, support people, designers are going to constantly flood what we should be doing.... As an editor I am constantly taking these inputs and deciding the one, or intersection of a few, that make sense for what we are doing.”3
+- An editor is not merely someone who says no to things. A three-year-old can do that. Nor does an editor simply eliminate; in fact, in a way, an editor actually adds.
+- a good editor is someone who uses deliberate subtraction to actually add life to the ideas, setting, plot, and characters.
+- as one book editor put it: “My job is to make life as effortless as possible for the reader. The goal is to help the reader have the clearest possible understanding of the most important message or takeaway.”
+- It can be quite painful to eliminate passages, pages, or even chapters that took weeks, months, maybe even years to write in the first place.
+- Yet such disciplined elimination is critical to the craft.
+- four simple principles inherent in editing do apply to editing the nonessentials out of our lives.
+- CUT OUT OPTIONS To state the obvious, editing involves cutting out things that confuse the reader and cloud the message or story.
+- having fewer options actually makes a decision “easier on the eye and the brain,” we must summon the discipline to get rid of options or activities that may be good, or even really good, but that get in the way.
+- making the choice to eliminate something good can be painful.
+- every cut produces joy—maybe not in the moment but afterwards, when we realize that every additional moment we have gained can be spent on something better.
+- CONDENSE
+- Many people have been credited with coming up with this apt sentiment: “I must apologize: if I had more time I would have written a shorter letter.”
+- It’s true that doing less can be harder, both in art and in life.
+- An editor is ruthless in the pursuit of making every word count.
+- there are “two basic questions the editor should be addressing to the author: Are you saying what you want to say? and, Are you saying it as clearly and concisely as possible?”7
+- Condensing means saying it as clearly and concisely as possible.
+- condensing doesn’t mean doing more at once, it simply means less waste. It means lowering the ratio of words to ideas, square feet to usefulness, or effort to results.
+- to apply the principle of condensing to our lives we need to shift the ratio of activity to meaning.
+- We need to eliminate multiple meaningless activities and replace them with one very meaningful activity.
+- CORRECT An editor’s job is not just to cut or condense but also to make something right.
+- To do this well, an editor must have a clear sense of the overarching purpose of the work he or she is editing.
+- in our own professional or private lives we can make course corrections by coming back to our core purpose.
+- EDIT LESS This may seem a little counterintuitive. But the best editors don’t feel the need to change everything.
+- They know that sometimes having the discipline to leave certain things exactly as they are is the best use of their editorial judgment.
+- Becoming an editor in our lives also includes knowing when to show restraint. One way we can do this is by editing our tendency to step in.
+- Doing less is not just a powerful Essentialist strategy, it’s a powerful editorial one as well.
+- CHAPTER 14 LIMIT The Freedom of Setting Boundaries
+- The disappearance of boundaries is typical of our Nonessentialist era. For one thing, of course, technology has completely blurred the lines between work and family.
+- These days there don’t seem to be any boundaries at all regarding when people expect us to be available to work.
+- But what most people don’t realize is that the problem is not just that the boundaries have been blurred; it’s that the boundary of work has edged insidiously into family territory.
+- one of the partners came to him and told him he needed to come in on Saturday to help work on a project. Clay simply responded: “Oh, I am so sorry. I have made the commitment that every Saturday is a day to be with my wife and children.” The partner, displeased, stormed off, but later he returned and he said: “Clay, fine. I have talked with everyone on the team and they said they will come in on Sunday instead. So I will expect you to be there.” Clay sighed and said: “I appreciate you trying to do that. But Sunday will not work. I have given Sunday to God and so I won’t be able to come in.” If the partner was frustrated before, he was much more so now. Still, Clay was not fired for standing his ground, and while his choice was not popular in the moment, ultimately he was respected for it. The boundaries paid off.
+- “That taught me an important lesson. If I had made an exception then I might have made it many times.”2 Boundaries are a little like the walls of a sandcastle. The second we let one fall over, the rest of them come crashing down. I won’t deny that setting boundaries can be hard. Just because it worked out for Jin-Yung and Clay doesn’t mean it always does.
+- It’s true that boundaries can come at a high price.
+- However, not pushing back costs more: our ability to choose what is most essential in life.
+- if you don’t set boundaries—there won’t be any. Or even worse, there will be boundaries, but they’ll be set by default—or by another person—instead of by design.
+- Essentialists, on the other hand, see boundaries as empowering. They recognize that boundaries protect their time from being hijacked and often free them from the burden of having to say no to things that further others’ objectives instead of their own.
+- clear boundaries allow them to proactively eliminate the demands and encumbrances from others that distract them from the true essentials.
+- Their Problem Is Not Your Problem
+- In our personal lives, too, there are some people who seem to know no boundaries when they make demands on our time.
+- We all have some people in our lives who tend to be higher maintenance for us than others. These are the people who make their problem our problem. They distract us from our purpose. They care only about their own agendas, and if we let them they prevent us from making our highest level of contribution by siphoning our time and energy off to activities that are essential to them, rather than those that are essential to us.
+- how do we
+- set the kinds of boundaries that will protect us from other people’s agendas?
+- DON’T ROB PEOPLE OF THEIR PROBLEMS I am not saying we should never help people. We should serve, and love, and make a difference in the lives of others, of course.
+- But when people make their problem our problem, we aren’t helping them; we’re enabling them. Once we take their problem for them, all we’re doing is taking away their ability to solve
+- Imagine a neighbor who never waters his lawn. But whenever you turn on your sprinkler system, the water falls on his lawn.
+- Your grass is turning brown and dying, but Bill looks down at his green grass and thinks to himself, “My yard is doing fine.” Thus everyone loses: your efforts have been wasted, and Bill never develops the habit of watering his own lawn. The solution? As Cloud puts it, “You need some fences to keep his problems out of your yard and in his, where they belong.”
+- Whoever it is that’s trying to siphon off your time and energies for their own purpose, the only solution is to put up fences.
+- And not at the moment the request is made—you need to put up your fences well in advance, clearly demarcating what’s off limits so you can head off time wasters and boundary pushers at the pass. Remember, forcing these people to solve their own problems is equally beneficial for you and for them.
+- BOUNDARIES ARE A SOURCE OF LIBERATION
+- when we don’t set clear boundaries in our lives we can end up imprisoned by the limits others have set for us. When we have clear boundaries, on the other hand, we are free to select from the whole area—or the whole range of options—that we have deliberately chosen to explore.
+- FIND YOUR DEALBREAKERS When I ask executives to identify their boundaries they can rarely do it. They know they have some, but they cannot put them into words.
+- if you can’t articulate these to yourself and others, it may be unrealistic to expect other people to respect them or even figure them out.
+- Think of one person who frequently pulls you off your most essential path. Make a list of your dealbreakers—the types of requests or activities from that person that you simply refuse to say yes to unless they somehow overlap with your own priorities or agenda.
+- Another quick test for finding your dealbreakers is to write down any time you feel violated or put upon by someone’s request.
+- CRAFT SOCIAL CONTRACTS
+- I was once paired with a colleague who approached projects in a completely opposite way. People predicted there would be fireworks between us. But our working relationship was actually quite harmonious. Why? Because when we first got together I made it a point to lay out my priorities and what extra work I would and wouldn’t be willing to take on over the life span of the project. “Let’s just agree on what we want to achieve,” I began. “Here are a couple of things that really matter to me ...” And I asked him to do the same.
+- EXECUTE How to Make Execution Effortless
+- Essentialists invest the time they have saved by eliminating the nonessentials into designing a system to make execution almost effortless.
+- In other words, once you’ve figured out which activities and efforts to keep in your life, you have to have a system for executing them.
+- You can’t wait until that closet is bursting at the seams and then take superhuman efforts to purge it. You have to have a system in place so that keeping it neat becomes routine and effortless.
+- CHAPTER 15 BUFFER The Unfair Advantage
+- The reality is that we live in an unpredictable world.
+- we face the unexpected constantly. We do not know whether the traffic will be clear or congested. We do not know if our flight will be delayed or canceled.
+- The only thing we can expect (with any great certainty) is the unexpected. Therefore, we can either wait for the moment and react to it or we can prepare. We can create a buffer.
+- A “buffer” can be defined literally as something that prevents two things from coming into contact and harming each other.
+- we can reduce the friction of executing the essential in our work and lives simply by creating a buffer.
+- if we forget to respect and maintain buffers in our lives. We get busy and distracted, and before we know it the project is due, the day of the big presentation has arrived—no matter how much extra time we built in. As a result we are forced to “swerve” or “slam on the brakes” at the last minute.
+- The Nonessentialist tends to always assume a best-case scenario.
+- The way of the Essentialist is different. The Essentialist looks ahead. She plans. She prepares for different contingencies. She expects the unexpected. She creates a buffer to prepare for the unforeseen, thus giving herself some wiggle room when things come up, as they inevitably do.
+- When a Nonessentialist receives a windfall, she tends to consume it rather than to set it aside for a rainy day.
+- The way of the Essentialist, on the other hand, is to use the good times to create a buffer for the bad. Norway also benefited enormously from windfall taxes from oil but unlike Britain, Norway invested much of its good fortune in an endowment.2
+- this endowment has grown over time to be worth an extraordinary $720 billion, making it the world’s largest sovereign wealth fund and providing a cushion against unknown future scenarios.3
+- It is as if we are driving one inch behind another car at one hundred miles an hour. If that driver makes even the tiniest unexpected move—if he slows down even a little, or swerves even the smallest bit—we’ll ram right into him. There is no room for error.
+- As a result, execution is often highly stressful, frustrating, and forced. Here are a few tips for keeping your work—and sanity—from swerving off the road by creating a buffer.
+- USE EXTREME PREPARATION
+- The importance of extreme preparedness holds true for us in business.
+- ADD 50 PERCENT TO YOUR TIME ESTIMATE
+- Have you ever underestimated how long a task will take? If you have, you are far from alone. The term for this very common phenomenon is the “planning fallacy.”6
+- refers to people’s tendency to underestimate how long a task will take, even when they have actually done the task before.
+- Of the variety of explanations for why we underestimate the amount of time something will take, I believe social pressure is the most interesting.
+- One study found that if people estimated anonymously how long it would take to complete a task they were no longer guilty of the planning fallacy.9 This implies that often we actually know we can’t do things in a given time frame, but we don’t want to admit it to someone.
+- One way to protect against this is simply to add a 50 percent buffer to the amount of time we estimate it will take to complete a task or project
+- Not only does this relieve the stress we feel about being late
+- but if we do find that the task was faster and easier to execute than we expected
+- the extra found time feels like a bonus.
+- CONDUCT SCENARIO PLANNING
+- everyone, starting with heads of state, develop a risk management strategy.
+- start by asking five questions: (1) What risks do we face and where? (2) What assets and populations are exposed and to what degree? (3) How vulnerable are they? (4) What financial burden do these risks place on individuals, businesses, and the government budget? and (5) How best can we invest to reduce risks and strengthen economic and social resilience?11
+- We can apply these five questions to our own attempts at building buffers.
+- Think of the most important project you are trying to get done at work or at home. Then ask the following five questions: (1) What risks do you face on this project? (2) What is the worst-case scenario? (3) What would the social effects of this be? (4) What would the financial impact of this be? and (5) How can you invest to reduce risks or strengthen financial or social resilience? Your answer to that fifth and crucial question will point you to buffers—perhaps adding another 20 percent to the project’s budget, or getting a PR person on board to handle any potential negative press, or calling a board meeting to manage shareholder expectations—that you can create to safeguard you against unknowable events.
+- CHAPTER 16 SUBTRACT Bring Forth More by Removing Obstacles
+- The question is this:
+- What is the obstacle that is keeping you back from achieving what really matters to you? By systematically identifying and removing this “constraint” you’ll be able to significantly reduce the friction keeping you from executing what is essential.
+- But this can’t be done in a haphazard way.
+- if you really want to improve the overall functioning of the system—whether that system is a manufacturing process, a procedure in your department, or some routine in your daily life—you need to identify the “slowest hiker.”
+- Essentialists don’t default to Band-Aid solutions. Instead of looking for the most obvious or immediate obstacles, they look for the ones slowing down progress. They ask, “What is getting in the way of achieving what is essential?”
+- the Essentialist simply makes a one-time investment in removing obstacles. This approach goes beyond just solving problems; it’s a method of reducing your efforts to maximize your results.
+- Produce More by Removing More
+- the Essentialist way of approaching execution: An Essentialist produces more—brings forth more—by removing more instead of doing more. Often we don’t take the time to really think about which efforts will produce results and which will not.
+- But even when we do, it is easier to think of execution in terms of addition rather than subtraction.
+- However, there is another way to think of improving results. Instead of focusing on the efforts and resources we need to add, the Essentialist focuses on the constraints or obstacles we need to remove. But how?
+- 1. BE CLEAR ABOUT THE ESSENTIAL INTENT
+- We can’t know what obstacles to remove until we are clear on the desired outcome.
+- 2. IDENTIFY THE “SLOWEST HIKER” Instead of just jumping into the project, take a few minutes to think. Ask yourself, “What are all the obstacles standing between me and getting this done?” and “What is keeping me from completing this?” Make a list of these obstacles.
+- Prioritize the list using the question, “What is the obstacle that, if removed, would make the majority of other obstacles disappear?”
+- one important thing to keep in mind is that even activities that are “productive”—like doing research, or e-mailing people for information, or rewriting the report in order to get it perfect the first time around—can be obstacles.
+- Anything slowing down the execution of that goal should be questioned.
+- at any one time there is only ever one priority; removing arbitrary obstacles can have no effect whatsoever if the primary one still doesn’t budge.
+- 3. REMOVE THE OBSTACLE
+- Removing obstacles does not have to be hard or take a superhuman effort. Instead, we can start small. It’s kind of like dislodging a boulder at the top of a hill. All it takes is a small shove, then momentum will naturally build.
+- CHAPTER 17 PROGRESS The Power of Small Wins
+- The way of the Essentialist is different. Instead of trying to accomplish it all—and all at once—and flaring out, the Essentialist starts small and celebrates progress. Instead of going for the big, flashy wins that don’t really matter, the Essentialist pursues small and simple wins in areas that are essential.
+- Research has shown that of all forms of human motivation the most effective one is progress. Why? Because a small, concrete win creates momentum and affirms our faith in our further success.
+- “everyday progress—even a small win” can make all the difference in how people feel and perform. “Of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work,” they said.5
+- to really get essential things done we need to start small and build momentum. Then we can use that momentum to work toward the next win, and the next one and so on until we have a significant breakthrough—and when we do, our progress will have become so frictionless and effortless that the breakthrough will seem like overnight success.
+- “My experience has taught me this about how people and organizations improve: the best place to look is for small changes we could make in the things we do often. There is power in steadiness and repetition.”6
+- We have a choice. We can use our energies to set up a system that makes execution of goodness easy, or we can resign ourselves to a system that actually makes it harder to do what is good.
+- We can all create systems like this both at home and at work. The key is to start small, encourage progress, and celebrate small wins. Here are a few techniques.
+- FOCUS ON MINIMAL VIABLE PROGRESS
+- A popular idea in Silicon Valley is “Done is better than perfect.”10 The sentiment is not that we should produce rubbish. The idea, as I read it, is not to waste time on nonessentials and just to get the thing done.
+- the idea is expressed as creating a “minimal viable product.”11
+- we can adopt a method of “minimal viable progress.” We can ask ourselves, “What is the smallest amount of progress that will be useful and valuable to the essential task we are trying to get done?”
+- DO THE MINIMAL VIABLE PREPARATION There are two opposing ways to approach an important goal or deadline. You can start early and small or start late and big. “Late and big” means doing it all at the last minute: pulling an all-nighter and “making it happen.” “Early and small” means starting at the earliest possible moment with the minimal possible time investment.
+- Take a goal or deadline you have coming up and ask yourself, “What is the minimal amount I could do right now to prepare?”
+- He isn’t preparing the entire speech; he just starts.
+- VISUALLY REWARD PROGRESS
+- There is something powerful about visibly seeing progress toward a goal.
+- When we start small and reward progress, we end up achieving more than when we set big, lofty, and often impossible goals. And as a bonus, the act of positively reinforcing our successes allows us to reap more enjoyment and satisfaction out of the process.
+- CHAPTER 18 FLOW The Genius of Routine
+- His coach, Bob Bowman, designed this physical routine with Phelps. But that’s not all. He also gave Phelps a routine for what to think about as he went to sleep and first thing when he awoke. He called it “Watching the Videotape.”2
+- The “tape” was a visualization of the perfect race. In exquisite detail and slow motion Phelps would visualize every moment from his starting position on top of the blocks, through each stroke, until he emerged from the pool, victorious, with water dripping off his face.
+- All the stretches went like he planned. The warm-up laps were just like he visualized. His headphones are playing exactly what he expected. The actual race is just another step in a pattern that started earlier that day and has been nothing but victories. Winning is a natural extension.”3
+- The Essentialist designs a routine that makes achieving what you have identified as essential the default position. Yes, in some instances an Essentialist still has to work hard, but with the right routine in place each effort yields exponentially greater results.
+- Routine is one of the most powerful tools for removing obstacles.
+- if we create a routine that enshrines the essentials, we will begin to execute them on autopilot.
+- We must simply expend a small amount of initial energy to create the routine, and then all that is left to do is follow it.
+- as we repeatedly do a certain task the neurons, or nerve cells, make new connections through communication gateways called “synapses.” With repetition, the connections strengthen and it becomes easier for the brain to activate them.
+- There is another cognitive advantage to routine as well. Once the mental work shifts to the basal ganglia, mental space is freed up to concentrate on something new.
+- This allows us to autopilot the execution of one essential activity while simultaneously actively engaging in another, without sacrificing our level of focus or contribution.
+- the right routines can actually enhance innovation and creativity by giving us the equivalent of an energy rebate. Instead of spending our limited supply of discipline on making the same decisions again and again, embedding our decisions into our routine allows us to channel that discipline toward some other essential activity.
+- “Most creative individuals find out early what their best rhythms are for sleeping, eating, and working, and abide by them even when it is tempting to do otherwise,” Mihaly says. “They wear clothes that are comfortable, they interact only with people they find congenial, they do only things they think are important. Of course, such idiosyncrasies are not endearing to those they have to deal with.... But personalizing patterns of action helps to free the mind from the expectations that make demands on attention and allows intense concentration on matters that count.”6
+- nearly 40 percent of our choices are deeply unconscious.7
+- The opportunity is that we can develop new abilities that eventually become instinctive. The danger is that we may develop routines that are counterproductive. Without being fully aware, we can get caught in nonessential habits—like
+- So how can we discard the routines that keep us locked in nonessential habits and replace them with routines that make executing essentials almost effortless?
+- scientists have explained that every habit is made up of a cue, a routine, and a reward.
+- The cue is a trigger that tells your brain to go into automatic mode and which habit to use. Then there is the routine—the behavior itself—which can be physical or mental or emotional. Finally, there is a reward, which helps your brain figure out if this particular habit is worth remembering for the future. Over time, this loop—cue, routine, reward; cue, routine, reward—becomes more automatic as the cue and reward become neurologically intertwined.”8
+- if we want to change our routine, we don’t really need to change the behavior. Rather, we need to find the cue that is triggering the nonessential activity or behavior and find a way to associate that same cue with something that is essential.
+- If the goal is to create some behavioral change, we’re not just confined to our existing cues; we can create brand-new ones to trigger the execution of some essential routine.
+- It’s true that doing the same things at the same time, day after day, can get boring. To avoid this kind of routine fatigue, there’s no reason why you can’t have different routines for different days of the week.
+- CHAPTER 19 FOCUS What’s Important Now?
+- the players apply the question constantly throughout the game.
+- “What’s important now?” helps them stay focused on how they are playing.
+- It is all based on a simple but powerful idea: to operate at your highest level of contribution requires that you deliberately tune in to what is important in the here and now.
+- Think about how this might apply in your own life. Have you ever become trapped reliving past mistakes ... over and over like a video player, stuck on endless replay? Do you spend time and energy worrying about the future? Do you spend more time thinking about the things you can’t control rather than the things you can control about the areas where your efforts matter? Do you ever find yourself busy trying to mentally prepare for the next meeting, or the next assignment, or the next chapter in your life, rather than being fully present in the current one?
+- The ancient Greeks had two words for time. The first was chronos. The second was kairos.
+- The Greek god Chronos was imagined as an elderly, gray-haired man, and his name connotes the literal ticking clock, the chronological time, the kind we measure
+- Kairos is different. While it is difficult to translate precisely, it refers to time that is opportune, right, different. Chronos is quantitative; kairos is qualitative.
+- The latter is experienced only when we are fully in the moment—when we exist in the now.
+- Yet only in the here and now can we actually execute on the things that really matter.
+- Unfocused. They aren’t really there. The way of the Essentialist is to tune into the present. To experience life in kairos, not just chronos. To focus on the things that are truly important—not yesterday or tomorrow, but right now.
+- Essentialists live their whole lives in this manner. And because they do, they can apply their full energy to the job at hand. They don’t diffuse their efforts with distractions. They know that execution is easy if you work hard at it and hard if you work easy at it.
+- What we can’t do is concentrate on two things at the same time. When I talk about being present, I’m not talking about doing only one thing at a time. I’m talking about being focused on one thing at a time. Multitasking itself is not the enemy of Essentialism; pretending we can “multifocus” is.
+- How to Be in the Now What can we do to be fully present on what is in front of us?
+- FIGURE OUT WHAT IS MOST IMPORTANT RIGHT NOW
+- I wrote a list in pencil of all the things on my mind. Then I clarified this by asking, “What do you need to do to be able to go to sleep peacefully?” What was essential, I decided, was to connect with my wife and children.
+- When faced with so many tasks and obligations that you can’t figure out which to tackle first, stop. Take a deep breath.
+- Get present in the moment and ask yourself what is most important this very second—not what’s most important tomorrow or even an hour from now.
+- If you’re not sure, make a list of everything vying for your attention and cross off anything that is not important right now.
+- GET THE FUTURE OUT OF YOUR HEAD Getting the future out of your head enables you to more fully focus on “what is important now.”
+- I asked myself, “What might you want to do someday as a result of today?” This was not a list of firm commitments, just a way to get all of the ideas out of my head and on paper. This had two purposes. First, it ensured I wouldn’t forget about those ideas, which might prove useful later. Second, it alleviated that stressful and distracting feeling that I needed to act upon them right this second.
+- PRIORITIZE After this I prioritized each list. Then I worked on each item on the “what is essential now” list one at a time. I just calmly worked through the list and erased each item when it was complete. By the time I went to sleep I had not only done all the things that needed to be executed at that moment, but I had executed them better and faster, because I was focused.
+- The Pause That Refreshes
+- he applies what he calls “the pause that refreshes.” This technique is easy. He stops for just a moment. He closes his eyes. He breathes in and out once: deeply and slowly. As he exhales, he lets the work issues fall away. This allows him to walk through the front door to his family with more singleness of purpose. It supports the sentiment attributed to Lao Tzu: “In work, do what you enjoy. In family life, be completely present.”
+- Thich Nhat Hanh, the Vietnamese Zen Buddhist monk who has been called the “world’s calmest man,” has spent a lifetime exploring how to live in kairos, albeit by a different name. He has taught it as mindfulness or maintaining “beginner’s mind.” He has written: “Mindfulness helps you go home to the present. And every time you go there and recognize a condition of happiness that you have, happiness comes.”2
+- “Suppose you are drinking a cup of tea. When you hold your cup, you may like to breathe in, to bring your mind back to your body, and you become fully present. And when you are truly there, something else is also there—life, represented by the cup of tea. In that moment you are real, and the cup of tea is real.
+- Pay attention through the day for your own kairos moments. Write them down in your journal. Think about what triggered that moment and what brought you out of it. Now that you know what triggers the moment, try to re-create it.
+- CHAPTER 20 BE The Essentialist Life
+- Mohandas K. Gandhi went to South Africa and saw oppression there. Suddenly, he found a higher purpose: the liberation of the oppressed everywhere. With this new singleness of purpose, he eliminated everything else from his life. He called the process “reducing himself to zero.”1 He dressed in his own homespun cloth (khadi) and inspired his followers to do the same. He spent three years not reading any newspapers because he found that their contents added only nonessential confusion to his life.
+- He spent thirty-five years experimenting with simplifying his diet.2 He spent a day each week without speaking. It would be an understatement to say he eschewed consumerism: when he died he owned fewer than ten items.
+- There are two ways of thinking about Essentialism. The first is to think of it as something you do occasionally. The second is to think of it as something you are.
+- In the latter,
+- It becomes a lifestyle. It becomes an all-encompassing approach to living and leading. It becomes the essence of who we are.
+- we can find Essentialists among the most successful people in every type of human endeavor.
+- They have deliberately chosen to fully embrace the way of the Essentialist.
+- it’s time to take that final step and learn how to use those skills not just to practice Essentialism occasionally but to become a true Essentialist.
+- MAJORING IN MINOR ACTIVITIES
+- the question is, Which are you at the core?
+- People with Essentialism at their core get far more from their investment than those who absorb it only at the surface level.
+- the benefits become cumulative. Every choice we make to pursue the essential and eliminate the nonessential builds on itself, making that choice more and more habitual until it becomes virtually second nature. With time, that inner core expands outwards until it has all but eclipsed the part of us still mired in the nonessential.
+- the way of the Essentialist isn’t just about success; it’s about living a life of meaning and purpose. When we look back on our careers and our lives, would we rather see a long laundry list of “accomplishments” that don’t really matter or just a few major accomplishments that have real meaning and significance?
+- If you allow yourself to fully embrace Essentialism—to really live it, in everything you do, whether at home or at work—it can become a part of the way you see and understand the world.
+- The Greeks had a word, metanoia, that refers to a transformation of the heart.
+- Once the essence of Essentialism enters our hearts, the way of the Essentialist becomes who we are. We become a different, better version of ourselves.
+- In many ways, to live as an Essentialist in our too-many-things-all-the-time society is an act of quiet revolution.
+- I still instinctively want to please people when they ask me to do something, even something I know is Nonessential.
+- over time I have found it gets easier and easier. Saying no feels less uncomfortable. Decisions get much clearer. Eliminating the Nonessentials becomes more natural and instinctive. I feel greater control of my choices, to the point that my life is different. If you open your heart and mind to embrace Essentialism fully, these things will become true for you as well.
+- I continue to discover almost daily that I can do less and less—in order to contribute more.
+- What made me so sure I was on the right path was how the clarity disappeared when I even thought of applying elsewhere. Several times I started the application process for other programs but always stopped after a few minutes. It just didn’t feel right. So I concentrated my efforts only on that single application. As I waited to hear back from the university, many other opportunities, some quite tempting, presented themselves. I said no to all of them. But despite the uncertainty of not yet knowing whether I had been accepted, I didn’t feel anxious or nervous. Instead, I felt calm, focused, and in control.
+- MORE CLARITY
+- As you continue to clear out the closet of your life, you will experience a reordering of what really matters. Life will become less about efficiently crossing off what was on your to-do list or rushing through everything on your schedule and more about changing what you put on there in the first place.
+- MORE CONTROL You will gain confidence in your ability to pause, push back, or not rush
+- Remember that if you don’t prioritize your life someone else will. But if you are determined to prioritize your own life you can. The power is yours. It is within you.
+- MORE JOY IN THE JOURNEY With the focus on what is truly important right now comes the ability to live life more fully, in the moment. For me, a key benefit of being more present in the moment has been making joyful memories that would otherwise not exist. I smile more. I value simplicity. I am more joyful. As the Dalai Lama, another true Essentialist, has said: “If one’s life is simple, contentment has to come. Simplicity is extremely important for happiness.”
+- The Essential Life: Living a Life That Really Matters
+- When I need a reminder of this I think of a story. It is about a man whose three-year-old daughter died. In his grief he put together a video of her short little life. But as he went through all of his home videos he realized something was missing. He had taken video of every outing they had gone on and every trip they had taken. He had lots of footage—that wasn’t the problem. But then he realized that while he had plenty of footage of the places they had gone—the sights they had seen, the views they had enjoyed, the meals they had eaten, and the landmarks they had visited—he had almost no close-up footage of his daughter herself. He had been so busy recording the surroundings he had failed to record what was essential.
+- two most personal learnings
+- The first is the exquisitely important role of my family in my life. At the very, very end, everything else will fade into insignificance by comparison. The second is the pathetically tiny amount of time we have left of our lives. For me this is not a depressing thought but a thrilling one. It removes fear of choosing the wrong thing. It infuses courage into my bones. It challenges me to be even more unreasonably selective about how to use this precious—and precious is perhaps too insipid of a word—time.
+- The life of an Essentialist is a life lived without regret. If you have correctly identified what really matters, if you invest your time and energy in it, then it is difficult to regret the choices you make. You become proud of the life you have chosen to live.
+- If you take one thing away from this book, I hope you will remember this: whatever decision or challenge or crossroads you face in your life, simply ask yourself, “What is essential?” Eliminate everything else.
+- APPENDIX Leadership Essentials
+- An Essentialist leader makes a different choice. With clarity of purpose, she is able to apply “less but better” to everything from talent selection, to direction, to roles, to communication, to accountability. As a result her team becomes unified and breaks through to the next level.
+- THE ELEMENTS OF LEADING AS AN ESSENTIALIST
+- Essentialism doesn’t end with the individual. If you lead in any capacity—whether it’s a team of two colleagues, a department of five hundred employees, or even some group in your school or community—the next step in your journey, if you are willing to take it, is to apply these same skills and mind-sets to your leadership.
+- BE RIDICULOUSLY SELECTIVE IN HIRING PEOPLE
+- An Essentialist, on the other hand, is ridiculously selective on talent. She has the discipline to hold out for the perfect hire—no matter how many résumés she has to read, or interviews she has to conduct, or talent searches she has to make—and doesn’t hesitate to remove people who hold the team back.
+- DEBATE UNTIL YOU HAVE ESTABLISHED A REALLY CLEAR (NOT PRETTY CLEAR) ESSENTIAL INTENT
+- Clear intent leads to alignment; vague direction produces misalignment every time.
+- GO FOR EXTREME EMPOWERMENT
+- When people don’t know what they are really responsible for and how they will be judged on their performance, when decisions either are or appear to be capricious, and when roles are ill-defined, it isn’t long before people either give up or, worse, become obsessed with trying to look busy and therefore important instead of actually getting any real work done.
+- An Essentialist
+- ensures that everyone on the team is really clear about what they are expected to contribute and what everyone else is contributing.
+- COMMUNICATE THE RIGHT THINGS TO THE RIGHT PEOPLE AT THE RIGHT TIME
+- Essentialist leaders, on the other hand, communicate the right things to the right people at the right time. Essentialist leaders speak succinctly, opting for restraint in their communication to keep the team focused.
+- CHECK IN OFTEN TO ENSURE MEANINGFUL PROGRESS
+- By taking the time to get clear about the one thing that is really required, the Essentialist leader makes follow-up so easy and frictionless that it actually happens. By checking in with people frequently to reward small wins and help people remove obstacles, he bolsters the team’s motivation and focus and enables them to make more meaningful progress
