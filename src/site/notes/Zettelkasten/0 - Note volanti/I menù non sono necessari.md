@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/0-note-volanti/i-menu-non-sono-necessari/","tags":["note_volanti"]}
+{"dg-publish":true,"Note type":"note_volanti","Connection":null,"tags":["note_volanti"],"aliases":["navigare senza mappa"],"permalink":"/zettelkasten/0-note-volanti/i-menu-non-sono-necessari/","dgPassFrontmatter":true}
 ---
 
 Ci sono diversi approcci per muoversi tra le informazioni e dipendono dal modo in cui si struttura lo spazio di archiviazione delle informazioni.
