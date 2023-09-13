@@ -14,7 +14,7 @@ E perché le pubblico online?
 
 Perché mi piace condividere queste cose e chissà cosa potrebbe accadere.
 
-Inoltre, qui non ci sarà un menù di navigazione e non troverai Indici, dovrai [[Zettelkasten/0 - Note volanti/I menù non sono necessari\|navigare senza mappa]].
+Inoltre, qui non ci sarà un menù di navigazione e non troverai Indici, dovrai [[Garden/1 - MVP/I menù non sono necessari\|navigare senza mappa]].
 
 Per muoverti nel mio digital garden devi scegliere un percorso (rappresentato dai link cliccabili) e seguirlo ovunque ti possa portare.
 
@@ -32,9 +32,8 @@ In questa pagina inserirò le dashboard più importanti e gli accessi alle sezio
 
 ### Note volanti
 
-| File                                                                                      | TtP |
-| ----------------------------------------------------------------------------------------- | --- |
-| [[Zettelkasten/0 - Note volanti/I menù non sono necessari\|I menù non sono necessari]] | 1   |
+| File | TtP |
+| ---- | --- |
 
 { .block-language-dataview}
 
