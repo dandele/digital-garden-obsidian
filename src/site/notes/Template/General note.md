@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"Connection":null,"permalink":"/template/general-note/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["mvp"],"Connection":null,"permalink":"/template/general-note/","dgPassFrontmatter":true}
 ---
 
 ---
