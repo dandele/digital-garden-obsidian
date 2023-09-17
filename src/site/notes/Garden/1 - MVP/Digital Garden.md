@@ -10,7 +10,7 @@
 
 ---
 
-È un modo per raccogliere e organizzare le note che si basa sul collegamento tra queste e, soprattutto, la pratica di farle passare da uno stato di sviluppo all'altro. ([[Garden/1 - MVP/Evoluzione delle note\|Evoluzione delle note]])
+È un modo per raccogliere e organizzare le note ([[Garden/1 - MVP/caratteristiche note di un digital garden\|caratteristiche note di un digital garden]]) che si basa sul collegamento tra queste e, soprattutto, la pratica di farle passare da uno stato di sviluppo all'altro. ([[Garden/1 - MVP/Evoluzione delle note\|Evoluzione delle note]])
 
 
 
