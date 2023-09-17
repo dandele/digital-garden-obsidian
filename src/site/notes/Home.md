@@ -18,7 +18,7 @@ Inoltre, qui non ci sarà un menù di navigazione e non troverai Indici, dovrai 
 
 Per muoverti nel mio digital garden devi scegliere un percorso (rappresentato dai link cliccabili) e seguirlo ovunque ti possa portare.
 
-Un buon punto di partenza, che ti fornisco proprio perché sono gentile, potrebbe essere questo: [[Garden/1 - MVP/Che fai ora?\|Che fai ora?]]
+Un buon punto di partenza, che ti fornisco proprio perché sono gentile, potrebbe essere questo: [[Garden/2 - PMF/Che fai ora?\|Che fai ora?]]
 
 
 
